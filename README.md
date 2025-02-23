@@ -1,16 +1,24 @@
-## Hi there 👋
+# WASD - Liga Acadêmica de Desenvolvimento de Jogos 🎮
 
-<!--
-**wasd-ufs/wasd-ufs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Nós
 
-Here are some ideas to get you started:
+A **WASD** é uma liga acadêmica da Universidade Federal de Sergipe (UFS), ligada ao Departamento de Computação (DCOMP). Nosso propósito é incentivar o aprendizado e a experimentação no universo do desenvolvimento de jogos digitais, explorando desde os conceitos fundamentais até técnicas usadas na indústria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O Que Fazemos
+
+🎓 **Capacitação**: Organizamos cursos abordando diversas áreas do desenvolvimento de jogos, como programação, design, narrativa e mecânicas de gameplay.
+
+🕹️ **Projetos Práticos**: Incentivamos o desenvolvimento de jogos, desde pequenas experiências até projetos mais complexos, proporcionando aprendizado prático e colaborativo em um ambiente estimulante.
+
+🎮 **Eventos e Game Jams**: Buscamos promover game jams e outras atividades para estimular a criatividade e o trabalho em equipe.
+
+## Como Participar?
+
+Fique ligado em nossas redes sociais para acompanhar os processos seletivos e eventos!
+
+📬 **Contato**
+
+- 📧 E-mail: [wasd@dcomp.ufs.br](mailto\:wasd@dcomp.ufs.br)
+- 📷 Instagram: [@wasd.ufs](https://instagram.com/wasd.ufs)
+- 🎤 Discord: [wasd-community](https://discord.gg/q7pENJSakq)
+
