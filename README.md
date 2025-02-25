@@ -21,4 +21,5 @@ Fique ligado em nossas redes sociais para acompanhar os processos seletivos e ev
 - 📧 E-mail: [wasd@dcomp.ufs.br](mailto\:wasd@dcomp.ufs.br)
 - 📷 Instagram: [@wasd.ufs](https://instagram.com/wasd.ufs)
 - 🎤 Discord: [wasd-community](https://discord.gg/q7pENJSakq)
+- 🎮 Itch.io: [wasd-ufs.itch.io](https://wasd-ufs.itch.io/)  
 
